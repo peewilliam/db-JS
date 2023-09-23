@@ -1,0 +1,54 @@
+{
+  "default": {
+    "id": "INT(10)",
+    "name": "VARCHAR(255)",
+    "description": "TEXT"
+  },
+  "data": [
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "This is product 2."
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "This is product 2."
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "This is product 2."
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "This is product 2."
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "This is product 2."
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "This is product 2."
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "This is product 2."
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "This is product 2."
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "This is product 2."
+    }
+  ]
+}
